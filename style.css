@@ -1,0 +1,4 @@
+.block:hover .svg{
+    border: none;
+    box-shadow: 0px 8+px 5px rgb(252, 200, 200);
+}
